@@ -1,4 +1,3 @@
-# data-science
 
 # Prediction Using Supervised-ML
 
